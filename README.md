@@ -1,5 +1,5 @@
 
-# Gerador de Mensagens Automáticas com PyWhatKit
+# Gerador de Mensagens Automáticas WhatsApp
 
  O código é um exemplo de automação para envio de mensagens usando a biblioteca pywhatkit no Python.
 
